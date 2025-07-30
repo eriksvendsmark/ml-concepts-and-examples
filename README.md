@@ -3,8 +3,6 @@ A structured and growing collection of conceptual notes and illustrative code ex
 
 This repository is designed as a learning resource and will be gradually expanded to include additional models, each with concise mathematical explanations and corresponding code implementations.
 
-Currently, it structure will be like this:
-
 ## Repository Structure
 ```
 ml-concepts-and-examples/
